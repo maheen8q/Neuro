@@ -105,4 +105,4 @@ These need answers before the design is final:
 
 ## Team
 
-Four people: Maheen (ML, service wiring), Mokshi (frontend), Wadia (backend web side), Anshrah (backend compute side).
+Two people: Maheen, Hassan.
