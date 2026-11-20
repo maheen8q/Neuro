@@ -105,4 +105,4 @@ These need answers before the design is final:
 
 ## Team
 
-Two people: Maheen, Hassan.
+Two people: Maheen, Hasan.
