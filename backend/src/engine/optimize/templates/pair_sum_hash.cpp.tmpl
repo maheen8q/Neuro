@@ -1,0 +1,10 @@
+#include <unordered_map>
+#include <vector>
+bool solve(const std::vector<int>& {{ARR}}, int {{TARGET}}) {
+    std::unordered_map<long long, bool> seen;
+    for (int x : {{ARR}}) {
+        if (seen.count(static_cast<long long>({{TARGET}}) - x)) return true;
+        seen[x] = true;
+    }
+    return false;
+}
